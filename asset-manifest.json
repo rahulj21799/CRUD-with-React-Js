@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CRUD-with-React-Js/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/CRUD-with-React-Js/static/js/main.7731ac8c.chunk.js",
+    "main.js.map": "/CRUD-with-React-Js/static/js/main.7731ac8c.chunk.js.map",
+    "runtime-main.js": "/CRUD-with-React-Js/static/js/runtime-main.f76c6aa5.js",
+    "runtime-main.js.map": "/CRUD-with-React-Js/static/js/runtime-main.f76c6aa5.js.map",
+    "static/js/2.11571b3e.chunk.js": "/CRUD-with-React-Js/static/js/2.11571b3e.chunk.js",
+    "static/js/2.11571b3e.chunk.js.map": "/CRUD-with-React-Js/static/js/2.11571b3e.chunk.js.map",
+    "static/js/3.c3f7ccd4.chunk.js": "/CRUD-with-React-Js/static/js/3.c3f7ccd4.chunk.js",
+    "static/js/3.c3f7ccd4.chunk.js.map": "/CRUD-with-React-Js/static/js/3.c3f7ccd4.chunk.js.map",
+    "index.html": "/CRUD-with-React-Js/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/CRUD-with-React-Js/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.11571b3e.chunk.js.LICENSE.txt": "/CRUD-with-React-Js/static/js/2.11571b3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f76c6aa5.js",
+    "static/js/2.11571b3e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7731ac8c.chunk.js"
+  ]
+}
